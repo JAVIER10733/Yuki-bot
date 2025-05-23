@@ -1,7 +1,7 @@
 # 🤖 Yuki-bot
 
 <div align="center">
-    <img src="./assets/images/Yuki-bot.png" width="500">
+    <img src="/assets/images/Yuki-bot.png" width="500">
 </div>
 
 <br />
