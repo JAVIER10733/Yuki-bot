@@ -1,44 +1,20 @@
 # 🤖 Yuki-bot
 
 <div align="center">
-    <img src="/assets/images/Yuki-bot.png" width="500">
+    <img src="/assets/imagenes/Yuki-bot.png" width="500">
 </div>
 
 <br />
 
 <div align="center">
-    <a href="https://github.com/JAVIER10733/Yuki-bot">
-        <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-3.8.0-blue">
+      <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-3.8.0-blue">
     </a>
 </div>
 
 <br />
 
-## Bot de WhatsApp multifunções, desenvolvido no vídeo:
 
-[CRIANDO UM BOT DE WHATSAPP DO ZERO (GUIA DEFINITIVO) - BASE COMPLETA + 6 COMANDOS - JAVASCRIPT](https://youtu.be/6zr2NYIYIyc)
-
-![Logger](./assets/images/logger.png)
-
-## Tecnologias envolvidas
-
-- [Axios](https://axios-http.com/ptbr/docs/intro)
-- [Baileys 6.7.16](https://github.com/WhiskeySockets/Baileys)
-- [FFMPEG](https://ffmpeg.org/)
-- [Node.js >= 22.14.0](https://nodejs.org/en)
-- [Spider X API](https://api.spiderx.com.br)
-
-## ⚠ Atenção
-
-Nós não prestamos suporte gratuíto caso você tenha adquirido esta base com terceiros e tenha pago por isso. 
-Solicite que **a pessoa que te vendeu, forneça suporte**.
-Nós não temos vínculo nenhum com terceiros e não nos responsabilizamos por isso, nem prestamos suporte nessas condições.
-
-Caso seu bot seja o oficial da Bronxys, 
-interaja conosco e receba suporte através do grupo:
-[https://chat.whatsapp.com/CaOn8owxr4zICaLkZdtyDT](https://chat.whatsapp.com/CaOn8owxr4zICaLkZdtyDT)
-
-## Instalação no Termux
+## Instalacion por termux
 
 1 - Abra o Termux e execute os comandos abaixo.<br/>
 _Não tem o Termux? [Clique aqui e baixe a última versão](https://www.mediafire.com/file/082otphidepx7aq/Termux_0.119.1_aldebaran_dev.apk)._
