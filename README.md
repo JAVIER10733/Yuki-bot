@@ -1,13 +1,13 @@
-# 🤖 Takeshi Bot
+# 🤖 Yuki-bot
 
 <div align="center">
-    <img src="./assets/images/takeshi-bot.png" width="500">
+    <img src="./assets/images/Yuki-bot.png" width="500">
 </div>
 
 <br />
 
 <div align="center">
-    <a href="https://github.com/guiireal/takeshi-bot">
+    <a href="https://github.com/JAVIER10733/Yuki-bot">
         <img alt="Version" src="https://img.shields.io/badge/Vers%C3%A3o-3.8.0-blue">
     </a>
 </div>
